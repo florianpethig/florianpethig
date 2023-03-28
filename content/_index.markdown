@@ -22,7 +22,7 @@ You can email me at: <a href="mailto:pethig@uni-mannheim.de">pethig@uni-mannheim
 Pethig F, Kroenung J (2023). "[Biased humans, (un) biased algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf)." _Journal of Business Ethics_, *183*, 637-652.
 
 * Replication code and data on [OSF](https://osf.io/axgp2/).
-* Press coverage:
+* Media:
  	* "Will Algorithms Remove Gender Bias in Hiring?" [Psychology Today](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring).
  	* "Algorithme, leadership : vers une parité Homme/Femme," [Forbes France](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/).
 
