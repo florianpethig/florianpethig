@@ -34,5 +34,7 @@ cat(capture.output(biblio["pethig2019specialized"]))
 
 ```{r wp, echo=FALSE, results='asis'}
 cat(capture.output(biblio["pethig2022MISQ"]))
+cat('\n\n')
+cat('* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris')
 ```
 
