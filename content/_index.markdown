@@ -32,7 +32,7 @@ Pethig F, Kroenung J (2019). "[Specialized information systems for the digitally
 
 ## Working Paper
 
-Pethig F, Hoehle H, Hui KL, Lanz A (2022). "[Behavior toward newcomers and contributions to online communities](https://deliverypdf.ssrn.com/delivery.php?ID=556009073006106088010123091070107078024081022041024036031089113103120094014071080024099002021039108007045068101002086088004126104036001013036116105031081016011118094041060084091072094005107120127027122102086102105097004119076113067029019125127082027068&EXT=pdf&INDEX=TRUE)." _Working paper_.
+Pethig F, Hoehle H, Hui KL, Lanz A (2023). "[Behavior toward newcomers and contributions to online communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3936971)." _Working paper_.
 
-* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris, Ruhr University Bochum, TU Munich
+* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris, Ruhr University Bochum, TU Munich, Rotterdam School of Management
 

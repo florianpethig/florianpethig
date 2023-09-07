@@ -33,8 +33,8 @@ cat(capture.output(biblio["pethig2019specialized"]))
 ## Working Paper
 
 ```{r wp, echo=FALSE, results='asis'}
-cat(capture.output(biblio["pethig2022MISQ"]))
+cat(capture.output(biblio["pethig2023MISQ"]))
 cat('\n\n')
-cat('* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris, Ruhr University Bochum, TU Munich')
+cat('* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris, Ruhr University Bochum, TU Munich, Rotterdam School of Management')
 ```
 
