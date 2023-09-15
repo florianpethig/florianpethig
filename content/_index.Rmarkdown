@@ -29,7 +29,7 @@ cat('* Replication code and data on [OSF](https://osf.io/axgp2/)\n')
 cat('* Media:\n','\t* "Will Algorithms Remove Gender Bias in Hiring?" [Psychology Today](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring)\n', '\t* "Algorithme, leadership: vers une parité Homme/Femme," [Forbes France](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/)\n\n')
 cat(capture.output(biblio["pethig2021stigma"]))
 cat('\n')
-cat('* Presentation: DIGIT 2018')
+cat('* Presentation: DIGIT 2018 Workshop')
 cat('\n\n')
 cat(capture.output(biblio["pethig2019specialized"]))
 ```

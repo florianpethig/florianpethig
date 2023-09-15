@@ -29,7 +29,7 @@ Pethig F, Kroenung J (2023). "[Biased humans, (un) biased algorithms?](https://l
  	* "Algorithme, leadership: vers une parité Homme/Femme," [Forbes France](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/)
 
 Pethig F, Kroenung J, Noeltner M (2021). "[A stigma power perspective on digital government service avoidance](https://www.sciencedirect.com/science/article/pii/S0740624X20303245)." _Government Information Quarterly_, *38*(2), 101545.
-* Presentation: DIGIT 2018
+* Presentation: DIGIT 2018 Workshop
 
 Pethig F, Kroenung J (2019). "[Specialized information systems for the digitally disadvantaged](https://aisel.aisnet.org/jais/vol20/iss10/5/)." _Journal of the Association for Information Systems_, *20*(10), 247-265.
 
