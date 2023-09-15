@@ -6,11 +6,13 @@ title: Home
 
 <div class="flex-container">
 <div class="flex-item-left">
-<img src="avatar.jpeg" style="max-width:250px;" >
+<img src="avatar.jpeg" style="max-width:280px;" >
 </div>
 <div class="flex-item-right">
 <span style="">
 I am an assistant professor (non-tenure track, <i>akademischer Rat a.Z.</i>) in information systems at <a href="https://www.bwl.uni-mannheim.de/hoehle/team/wissenschaftliche-mitarbeiter/florian-pethig/">University of Mannheim</a>. I received my M.Sc. and Ph.D. in information systems from the University of Mannheim. I previously worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a> (Lufthansa Group), specializing in data science and the digital transformation. I study the societal impact of technology and user behavior on digital platforms. My work has appeared in Journal of the Association for Information Systems, Journal of Business Ethics, and Government Information Quarterly.
+
+I enjoy running and a good [pour-over coffee](https://x.com/florianpethig/status/1702251802270310846?s=46&t=CRc7nY5gHifH04UhTILkIQ). In a previous life, I was a speedcuber and competed in the [German Nationals 2008](https://www.worldcubeassociation.org/persons/2008PETH01).
 
 You can email me at: <a href="mailto:pethig@uni-mannheim.de">pethig@uni-mannheim.de</a>
 </span>
