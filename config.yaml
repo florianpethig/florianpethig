@@ -11,14 +11,17 @@ permalinks:
   note: "/note/:year/:month/:day/:slug/"
   post: "/post/:year/:month/:day/:slug/"
 
-#menu:
-  #main:
-  #  - name: Home
-  #    url: ""
-  #    weight: 1
-  #  - name: About
-  #    url: "about/"
-  #    weight: 2
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: Publications
+      url: "publications/"
+      weight: 2
+    - name: Work in Progress
+      url: "wip/"
+      weight: 2
 
 params:
   description: "Florian Pethig"

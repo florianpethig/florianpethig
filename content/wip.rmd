@@ -1,0 +1,21 @@
+---
+title: Work in Progress
+---
+
+```{r pub-nudge, echo=FALSE, results='asis'}
+biblio <- bibtex::read.bib("bibliography.bib")
+cat(capture.output(biblio["pethig2023MISQ"]))
+```
+
+<p align="justify"><font size="2">In this paper, we study whether and how behavior toward newcomers impacts their socialization outcomes in online communities, such as retention and quality of contributions. Intuitively, more positive interactions should help newcomers adjust to the new environment, but the effect could be driven by endogenous responses: people interested in the community have an intrinsic propensity to participate, while their posts receive more positive responses from existing members. By exploiting a natural experiment on a large deal-sharing platform, we find that an intervention that reminds people to be more considerate to newcomers causes newcomer deals to receive 54% more comments with a more positive sentiment. In turn, we find that newcomers are 4% more likely to post another deal, suggesting an increase in retention. However, we do not observe any effect on the quality of subsequent contributions. Our evidence suggests that the intervention merely caused a temporary shock to the first contributions of newcomers, but failed to improve learning or motivate greater effort. We draw implications for the design of socialization processes to help communities improve the retention and performance of newcomers.</font></p>
+
+<p align="center"><img src="/about/nudge.png" style="max-width:80%"></p>
+
+```{r pub-unexpected, echo=FALSE, results='asis'}
+cat(capture.output(biblio["pethig2023unexpected"]))
+```
+
+<p align="justify"><font size="2">Digital platforms frequently use monetary rewards to incentivize the production of user-generated content. We leverage data from deal-sharing platforms that award users who post the most popular contributions per day with a 10 EUR voucher. An important caveat of our setting is that the incentive scheme is not publicly announced by the platforms. Instead, recipients are informed by platform representatives, who disclose the reward and the rules of the scheme. Thus, the scheme endogenously sorts users into informed users who can compete for future rewards and uninformed users who remain unaware of the scheme. We show that although winning the reward increases the number of contributions, it causes informed users to downvote others’ contributions. Our findings suggest that incentive schemes might inadvertently increase competition among users with potentially unintended negative effects.
+</font></p>
+
+<p align="center"><img src="/about/unexpected.png" style="max-width:80%"></p>
