@@ -15,14 +15,26 @@ I am an assistant professor (non-tenure track, <i>akademischer Rat a.Z.</i>) in 
 </div>
 </div>
 
-I enjoy running and a good <a href="https://x.com/florianpethig/status/1702251802270310846?s=46&t=CRc7nY5gHifH04UhTILkIQ">pour-over coffee</a>. In a previous life, I have been speedcubing and competed in the <a href="https://www.worldcubeassociation.org/persons/2008PETH01">German Nationals</a>.
+<p align="justify">I enjoy running and a good <a href="https://x.com/florianpethig/status/1702251802270310846?s=46&t=CRc7nY5gHifH04UhTILkIQ">pour-over coffee</a>. In a previous life, I have been speedcubing and competed in the <a href="https://www.worldcubeassociation.org/persons/2008PETH01">German Nationals</a>.
 
-You can email me at: <a href="mailto:pethig@uni-mannheim.de">pethig@uni-mannheim.de</a>.
+You can email me at: <a href="mailto:pethig@uni-mannheim.de">pethig@uni-mannheim.de.</a></p>
+
+## Work in Progress
+
+```{r wp, echo=FALSE, results='asis'}
+biblio <- bibtex::read.bib("bibliography.bib")
+cat(capture.output(biblio["pethig2023MISQ"]))
+cat('\n\n')
+cat('* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris, Ruhr University Bochum, TU Munich, Rotterdam School of Management')
+cat('\n\n')
+cat(capture.output(biblio["pethig2023unexpected"]))
+cat('\n\n')
+cat('* Presentations: SCECR 2023, TU Dresden *(scheduled)*')
+```
 
 ## Publications
 
 ```{r pub, echo=FALSE, results='asis'}
-biblio <- bibtex::read.bib("bibliography.bib")
 cat(capture.output(biblio["pethig2023biased"]))
 cat('\n\n')
 cat('* Replication code and data on [OSF](https://osf.io/axgp2/)\n')
@@ -34,16 +46,5 @@ cat('\n\n')
 cat(capture.output(biblio["pethig2019specialized"]))
 ```
 
-## Work in Progress (Selected)
-
-```{r wp, echo=FALSE, results='asis'}
-cat(capture.output(biblio["pethig2023MISQ"]))
-cat('\n\n')
-cat('* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris, Ruhr University Bochum, TU Munich, Rotterdam School of Management')
-cat('\n\n')
-cat(capture.output(biblio["pethig2023unexpected"]))
-cat('\n\n')
-cat('* Presentations: SCECR 2023, TU Dresden *(scheduled)*')
-```
 
 

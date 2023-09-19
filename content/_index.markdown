@@ -15,9 +15,19 @@ I am an assistant professor (non-tenure track, <i>akademischer Rat a.Z.</i>) in 
 </div>
 </div>
 
-I enjoy running and a good <a href="https://x.com/florianpethig/status/1702251802270310846?s=46&t=CRc7nY5gHifH04UhTILkIQ">pour-over coffee</a>. In a previous life, I have been speedcubing and competed in the <a href="https://www.worldcubeassociation.org/persons/2008PETH01">German Nationals</a>.
+<p align="justify">I enjoy running and a good <a href="https://x.com/florianpethig/status/1702251802270310846?s=46&t=CRc7nY5gHifH04UhTILkIQ">pour-over coffee</a>. In a previous life, I have been speedcubing and competed in the <a href="https://www.worldcubeassociation.org/persons/2008PETH01">German Nationals</a>.
 
-You can email me at: <a href="mailto:pethig@uni-mannheim.de">pethig@uni-mannheim.de</a>.
+You can email me at: <a href="mailto:pethig@uni-mannheim.de">pethig@uni-mannheim.de.</a></p>
+
+## Work in Progress
+
+Pethig F, Hoehle H, Hui KL, Lanz A (2023). "[Behavior toward newcomers and contributions to online communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3936971)."
+
+* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris, Ruhr University Bochum, TU Munich, Rotterdam School of Management
+
+Pethig F, Hoehle H, Hui KL, Lanz A (2023). "Unexpected monetary incentives and user-generated content on digital platforms."
+
+* Presentations: SCECR 2023, TU Dresden *(scheduled)*
 
 ## Publications
 
@@ -31,14 +41,5 @@ Pethig F, Kroenung J, Noeltner M (2021). "[A stigma power perspective on digital
 
 Pethig F, Kroenung J (2019). "[Specialized information systems for the digitally disadvantaged](https://aisel.aisnet.org/jais/vol20/iss10/5/)." _Journal of the Association for Information Systems_, *20*(10), 247-265.
 
-## Work in Progress (Selected)
-
-Pethig F, Hoehle H, Hui KL, Lanz A (2023). "[Behavior toward newcomers and contributions to online communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3936971)."
-
-* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris, Ruhr University Bochum, TU Munich, Rotterdam School of Management
-
-Pethig F, Hoehle H, Hui KL, Lanz A (2023). "Unexpected monetary incentives and user-generated content on digital platforms."
-
-* Presentations: SCECR 2023, TU Dresden *(scheduled)*
 
 
