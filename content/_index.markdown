@@ -10,7 +10,7 @@ title: Home
 </div>
 <div class="flex-item-right" style="text-align: justify">
 <span style=""> 
-I am an assistant professor (non-tenure track, <i>akademischer Rat a.Z.</i>) in information systems at <a href="https://www.bwl.uni-mannheim.de/hoehle/team/wissenschaftliche-mitarbeiter/florian-pethig/">University of Mannheim</a>. I received my M.Sc. and Ph.D. in information systems from the University of Mannheim. I previously worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a> (Lufthansa Group), specializing in data science and the digital transformation. My research into digital platforms and the digitalization of organizations is geared toward understanding how technology impacts the behavior and welfare of people. My work has appeared in <i>Journal of the Association for Information Systems</i>, <i>Journal of Business Ethics</i>, and <i>Government Information Quarterly</i>. 
+I am an assistant professor (non-tenure track, <i>akademischer Rat a.Z.</i>) in information systems at <a href="https://www.bwl.uni-mannheim.de/hoehle/team/wissenschaftliche-mitarbeiter/florian-pethig/">University of Mannheim</a>. I received my M.Sc. and Ph.D. in information systems from the University of Mannheim. I previously worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a> (Lufthansa Group), specializing in data science and the digital transformation. My research into digital platforms and the digitization of organizations is geared toward understanding how technology impacts the behavior and welfare of people. My work has appeared in <i>Journal of the Association for Information Systems</i>, <i>Journal of Business Ethics</i>, and <i>Government Information Quarterly</i>. 
 </span>
 </div>
 </div>
