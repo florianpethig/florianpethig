@@ -6,7 +6,7 @@ title: Home
 
 <div class="flex-container">
 <div class="flex-item-left">
-<p align="justify">
+<p align="left">
 <img src="avatar.jpeg" style="max-width:277px;" >
 </p>
 </div>
