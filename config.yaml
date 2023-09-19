@@ -21,7 +21,10 @@ menu:
       weight: 2
     - name: Work in Progress
       url: "wip/"
-      weight: 2
+      weight: 3
+    - name: Teaching
+      url: "teaching/"
+      weight: 4
 
 params:
   description: "Florian Pethig"

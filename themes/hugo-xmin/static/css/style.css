@@ -12,11 +12,11 @@ body {
 }
 
 .flex-item-left {
-  flex: 40%;
+  flex: 32%;
 }
 
 .flex-item-right {
-  flex: 60%;
+  flex: 68%;
 }
 
 /* Responsive layout - makes a one column layout instead of a two-column layout */
@@ -71,7 +71,9 @@ table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
 
+a:link {
+  color: black;
+}
 a:visited { 
- text-decoration: none; 
- color: blue; 
+ color: black; 
 }
