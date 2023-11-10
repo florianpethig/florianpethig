@@ -25,7 +25,7 @@ You can email me at: <a href="mailto:pethig@uni-mannheim.de">pethig@uni-mannheim
 biblio <- bibtex::read.bib("bibliography.bib")
 cat(capture.output(biblio["pethig2023MISQ"]))
 cat('\n\n')
-cat('* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris, Ruhr University Bochum, TU Munich, Rotterdam School of Management')
+cat('* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris, Ruhr University Bochum, TU Munich, Erasmus University Rotterdam, Tilburg University')
 cat('\n\n')
 cat(capture.output(biblio["pethig2023unexpected"]))
 cat('\n\n')

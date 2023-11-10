@@ -2,38 +2,22 @@
 title: Teaching
 ---
 
-# University of Mannheim
+## University of Mannheim
 Evaluations are based on a 5-point scale with 1 being the highest rating.
 
-## Fall 2022	
+**IS 203 Development and Management of Information Systems (B.Sc. Business Informatics)**
 
-**IS 203 Development and Management of Information Systems**
+* Fall 2022 (1.5)
 
-* Number of students: ~120
-* Overall evaluation: 1.5
+**IS 301 Foundations of Information Systems (B.Sc. Business Administration)**
 
-**IS 540 Management of Enterprise Systems**
+* Spring 2022 (1.5)
 
-* Number of students: ~100
-* Overall evaluation: 1.6 
+**IS 540 Management of Enterprise Systems (M.Sc. Mannheim Master in Management)**
 
-## Spring 2022	
+* Fall 2022 (1.6)
+* Fall 2020 (2.2)
 
-**IS 301 Foundations of Information Systems**
+**IS 629 Agile Software Product Management and Design (M.Sc. Mannheim Master in Management)**
 
-* Number of students: ~500
-* Overall evaluation: 1.5
-
-## Spring 2021	
-
-**IS 629 Agile Software Product Management and Design**
-
-* Number of students: ~80
-* Overall evaluation: 1.6
-
-## Fall 2020	
-
-**IS 540 Management of Enterprise Systems**
-
-* Number of students: ~100
-* Overall evaluation: 2.2 
+* Spring 2021 (1.6)
