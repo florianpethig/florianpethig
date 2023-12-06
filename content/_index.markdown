@@ -23,11 +23,11 @@ You can email me at: <a href="mailto:pethig@uni-mannheim.de">pethig@uni-mannheim
 
 Pethig F, Hoehle H, Hui KL, Lanz A (2023). "[Behavior toward newcomers and contributions to online communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3936971)."
 
-* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris, Ruhr University Bochum, TU Munich, Erasmus University Rotterdam, Tilburg University
+* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, 2021 INFORMS Marketing Science, CityU, SUSTech, HKUST, HEC Paris, TU Munich, Erasmus University Rotterdam, Tilburg University
 
 Pethig F, Hoehle H, Hui KL, Lanz A (2023). "Unexpected monetary incentives and user-generated content on digital platforms."
 
-* Presentations: SCECR 2023, TU Dresden *(scheduled)*
+* Presentations: SCECR 2023, TU Dresden
 
 ## Publications
 
