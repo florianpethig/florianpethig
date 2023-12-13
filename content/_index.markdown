@@ -15,7 +15,9 @@ I am an assistant professor (non-tenure track, <i>akademischer Rat a.Z.</i>) in 
 </div>
 </div>
 
-<p align="justify">I enjoy running and a good <a href="https://x.com/florianpethig/status/1702251802270310846?s=46&t=CRc7nY5gHifH04UhTILkIQ">pour-over coffee</a>. In a previous life, I have been speedcubing and competed in the <a href="https://www.worldcubeassociation.org/persons/2008PETH01">German Nationals</a>.
+<p align="justify">My work has been presented at leading conferences in information systems, including the International Conference on Information Systems (ICIS), the Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), and the Workshop on Information Technologies and Systems (WITS). My work has received funding from the German Academic Exchange Service (DAAD), the Joachim Herz Foundation, and Wikimedia Deutschland. I have received the Best Associate Editor Award from the European Conference on Information Systems in 2023.
+ 
+I enjoy running and a good <a href="https://x.com/florianpethig/status/1702251802270310846?s=46&t=CRc7nY5gHifH04UhTILkIQ">pour-over coffee</a>. In a previous life, I have been speedcubing and competed in the <a href="https://www.worldcubeassociation.org/persons/2008PETH01">German Nationals</a>.
 
 You can email me at: <a href="mailto:pethig@uni-mannheim.de">pethig@uni-mannheim.de.</a></p>
 
