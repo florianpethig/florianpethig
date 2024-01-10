@@ -10,7 +10,7 @@ title: Home
 </div>
 <div class="flex-item-right" style="text-align: justify">
 <span style=""> 
-I am an assistant professor (non-tenure track, <i>akademischer Rat a.Z.</i>) in information systems at <a href="https://www.bwl.uni-mannheim.de/hoehle/team/wissenschaftliche-mitarbeiter/florian-pethig/">University of Mannheim</a>. I received my M.Sc. and Ph.D. in information systems from the University of Mannheim. I previously worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a> (Lufthansa Group), specializing in data science and the digital transformation. My research into digital platforms and the digitization of organizations is geared toward understanding how technology impacts the behavior and welfare of people. My work has appeared in <i>Journal of the Association for Information Systems</i>, <i>Journal of Business Ethics</i>, and <i>Government Information Quarterly</i>. 
+I am assistant professor of information systems at <a href="https://www.tilburguniversity.edu/about/schools/economics-and-management">Tilburg School of Economics and Management</a>. I received my M.Sc. and Ph.D. in information systems from the <a href="https://www.uni-mannheim.de/en/">University of Mannheim</a>. I previously worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a> (Lufthansa Group), specializing in data science and the digital transformation. My research into digital platforms and the digitization of organizations is geared toward understanding how technology impacts the behavior and welfare of people. My work has appeared in <i>Journal of the Association for Information Systems</i>, <i>Journal of Business Ethics</i>, and <i>Government Information Quarterly</i>. 
 </span>
 </div>
 </div>
@@ -19,7 +19,7 @@ I am an assistant professor (non-tenure track, <i>akademischer Rat a.Z.</i>) in 
  
 I enjoy running and a good <a href="https://x.com/florianpethig/status/1702251802270310846?s=46&t=CRc7nY5gHifH04UhTILkIQ">pour-over coffee</a>. In a previous life, I have been speedcubing and competed in the <a href="https://www.worldcubeassociation.org/persons/2008PETH01">German Nationals</a>.
 
-You can email me at: <a href="mailto:pethig@uni-mannheim.de">pethig@uni-mannheim.de.</a></p>
+You can email me at: <a href="mailto:f.pethig@tilburguniversity.edu">f.pethig@tilburguniversity.edu.</a></p>
 
 ## Work in Progress
 
