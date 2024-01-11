@@ -6,11 +6,11 @@ title: Home
 
 <div class="flex-container">
 <div class="flex-item-left">
-<img src="avatar.jpeg" style="max-width:215px;" >
+<img src="avatar.jpeg" style="max-width:225px;" >
 </div>
 <div class="flex-item-right" style="text-align: justify">
 <span style=""> 
-I am assistant professor of information systems at <a href="https://www.tilburguniversity.edu/about/schools/economics-and-management">Tilburg School of Economics and Management</a>. I received my M.Sc. and Ph.D. in information systems from the <a href="https://www.uni-mannheim.de/en/">University of Mannheim</a>. I previously worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a> (Lufthansa Group), specializing in data science and the digital transformation. My research into digital platforms and the digitization of organizations is geared toward understanding how technology impacts the behavior and welfare of people. My work has appeared in <i>Journal of the Association for Information Systems</i>, <i>Journal of Business Ethics</i>, and <i>Government Information Quarterly</i>. 
+I am an Assistant Professor of Information Systems at <a href="https://www.tilburguniversity.edu">Tilburg University</a>. I received my M.Sc. and Ph.D. in Information Systems from the <a href="https://www.uni-mannheim.de/en/">University of Mannheim</a>. I previously worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a> (Lufthansa Group), specializing in data science and the digital transformation. My research into digital platforms and the digitization of organizations is geared toward understanding how technology impacts the behavior and welfare of people. My work has appeared in <i>Journal of the Association for Information Systems</i>, <i>Journal of Business Ethics</i>, and <i>Government Information Quarterly</i>. 
 </span>
 </div>
 </div>
