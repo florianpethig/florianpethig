@@ -29,7 +29,7 @@ cat(capture.output(biblio["pethig2023MISQ"]))
 cat('\n\n')
 cat('* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, ISMS Marketing Science Conference 2021, CityU, SUSTech, HKUST, HEC Paris, TU Munich, Erasmus University Rotterdam, Tilburg University')
 cat('\n\n')
-cat(capture.output(biblio["pethig2023unexpected"]))
+cat(capture.output(biblio["pethig2023unexpected"])) 
 cat('\n\n')
 cat('* Presentations: SCECR 2023, TU Dresden')
 ```
@@ -37,13 +37,10 @@ cat('* Presentations: SCECR 2023, TU Dresden')
 ## Publications
 
 ```{r pub, echo=FALSE, results='asis'}
-cat(capture.output(biblio["pethig2023biased"]))
+cat(capture.output(biblio["pethig2023biased"]), "*[[Replication]](https://osf.io/axgp2/) [[Preprint]](/preprints/bias.pdf)*")
 cat('\n\n')
-cat('* Replication code and data on [OSF](https://osf.io/axgp2/)\n')
 cat('* Media: [Psychology Today](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring), [Forbes France](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/) *(French)*\n\n')
 cat(capture.output(biblio["pethig2021stigma"]))
-cat('\n')
-cat('* Presentation: DIGIT 2018 Workshop')
 cat('\n\n')
 cat(capture.output(biblio["pethig2019specialized"]))
 ```

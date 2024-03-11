@@ -23,7 +23,7 @@ My work has been presented at leading conferences in information systems and mar
 
 ## Work in Progress
 
-Pethig F, Hoehle H, Hui KL, Lanz A (2023). "[Behavior toward newcomers and contributions to online communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3936971)."
+Pethig F, Hoehle H, Hui KL, Lanz A (2023). "[Behavior toward newcomers and contributions to online communities](/preprints/nudge.pdf)."
 
 * Presentations: University of Cologne, TU Darmstadt, University of Mannheim, ISMS Marketing Science Conference 2021, CityU, SUSTech, HKUST, HEC Paris, TU Munich, Erasmus University Rotterdam, Tilburg University
 
@@ -33,13 +33,11 @@ Pethig F, Hoehle H, Hui KL, Lanz A (2023). "Unexpected monetary incentives and u
 
 ## Publications
 
-Pethig F, Kroenung J (2023). "[Biased humans, (un) biased algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf)." _Journal of Business Ethics_, *183*, 637-652.
+Pethig F, Kroenung J (2023). "[Biased humans, (un) biased algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf)." _Journal of Business Ethics_, *183*, 637-652. *[[Replication]](https://osf.io/axgp2/) [[Preprint]](/preprints/bias.pdf)*
 
-* Replication code and data on [OSF](https://osf.io/axgp2/)
 * Media: [Psychology Today](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring), [Forbes France](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/) *(French)*
 
 Pethig F, Kroenung J, Noeltner M (2021). "[A stigma power perspective on digital government service avoidance](https://www.sciencedirect.com/science/article/pii/S0740624X20303245)." _Government Information Quarterly_, *38*(2), 101545.
-* Presentation: DIGIT 2018 Workshop
 
 Pethig F, Kroenung J (2019). "[Specialized information systems for the digitally disadvantaged](https://aisel.aisnet.org/jais/vol20/iss10/5/)." _Journal of the Association for Information Systems_, *20*(10), 247-265.
 
