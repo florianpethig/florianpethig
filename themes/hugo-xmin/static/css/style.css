@@ -72,8 +72,16 @@ th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
 
 a:link {
-  color: black;
+  color: 	#3366CC;
+  text-decoration: none
 }
 a:visited { 
+ color: #3366CC; 
+}
+
+b:link {
+  color: 	black;
+}
+b:visited { 
  color: black; 
 }

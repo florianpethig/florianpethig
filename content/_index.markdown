@@ -7,13 +7,14 @@ title: Home
 <div class="flex-container">
 <div class="flex-item-left">
 <img src="avatar.jpeg" style="max-width:240px;" >
+
 Assistant Professor <br>
 Department of Information Systems <br> and Operations Managmement<br>
 Tilburg University <br>
 <a href="mailto:f.pethig@tilburguniversity.edu">f.pethig@tilburguniversity.edu</a></p>
 </div>
 <div class="flex-item-right" style="text-align: justify">
-<span style=""> 
+<span style="">
 I am an Assistant Professor of Information Systems at <a href="https://www.tilburguniversity.edu">Tilburg University</a>. I received my M.Sc. and Ph.D. in Information Systems from the <a href="https://www.uni-mannheim.de/en/">University of Mannheim</a>. I previously worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a> (Lufthansa Group), specializing in data science and the digital transformation. My research into digital platforms and the digitization of organizations is geared toward understanding how technology impacts the behavior and welfare of people. My work has appeared in <i>Journal of the Association for Information Systems</i>, <i>Journal of Business Ethics</i>, and <i>Government Information Quarterly</i>.
 
 My work has been presented at leading conferences in information systems and marketing, including the International Conference on Information Systems (ICIS), the Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), the Workshop on Information Technologies and Systems (WITS), and the ISMS Marketing Science Conference. I have received funding from the German Academic Exchange Service (DAAD), the Joachim Herz Foundation, and Wikimedia Deutschland. I have received the Best Associate Editor Award from the European Conference on Information Systems in 2023.
