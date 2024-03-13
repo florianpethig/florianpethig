@@ -38,9 +38,9 @@ cat('* Presentations: SCECR 2023, TU Dresden')
 ## Publications
 
 ```{r pub, echo=FALSE, results='asis'}
-cat(capture.output(biblio["pethig2023biased"]), "*[[Replication]](https://osf.io/axgp2/) [[Preprint]](/preprints/bias.pdf)*")
-cat('\n\n')
-cat('* Media: [Psychology Today](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring), [Forbes France](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/) *(French)*\n\n')
+cat(capture.output(biblio["pethig2023biased"]))
+cat("\n*[[Replication]](https://osf.io/axgp2/) [[Preprint]](/preprints/bias.pdf)*")
+cat('\n--- Media *[[Psychology Today]](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring) [[Forbes France]](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/)*\n\n')
 cat(capture.output(biblio["pethig2021stigma"]))
 cat('\n\n')
 cat(capture.output(biblio["pethig2019specialized"]))

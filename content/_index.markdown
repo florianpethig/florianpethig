@@ -34,9 +34,9 @@ Pethig F, Hoehle H, Hui KL, Lanz A (2023). "Unexpected monetary incentives and u
 
 ## Publications
 
-Pethig F, Kroenung J (2023). "[Biased humans, (un) biased algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf)." _Journal of Business Ethics_, *183*, 637-652. *[[Replication]](https://osf.io/axgp2/) [[Preprint]](/preprints/bias.pdf)*
-
-* Media: [Psychology Today](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring), [Forbes France](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/) *(French)*
+Pethig F, Kroenung J (2023). "[Biased humans, (un) biased algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf)." _Journal of Business Ethics_, *183*, 637-652.
+*[[Replication]](https://osf.io/axgp2/) [[Preprint]](/preprints/bias.pdf)*
+--- Media *[[Psychology Today]](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring) [[Forbes France]](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/)*
 
 Pethig F, Kroenung J, Noeltner M (2021). "[A stigma power perspective on digital government service avoidance](https://www.sciencedirect.com/science/article/pii/S0740624X20303245)." _Government Information Quarterly_, *38*(2), 101545.
 
