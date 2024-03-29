@@ -32,7 +32,7 @@ cat('* Presentations: University of Cologne, TU Darmstadt, University of Mannhei
 cat('\n\n')
 cat(capture.output(biblio["pethig2023unexpected"])) 
 cat('\n\n')
-cat('* Presentations: SCECR 2023, TU Dresden')
+cat('* Presentations: SCECR 2023, TU Dresden, Digital Economy Workshop 2024')
 ```
 
 ## Publications

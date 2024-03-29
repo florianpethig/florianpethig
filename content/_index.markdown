@@ -30,7 +30,7 @@ Pethig F, Hoehle H, Hui KL, Lanz A (2023). "[Behavior toward newcomers and contr
 
 Pethig F, Hoehle H, Hui KL, Lanz A (2023). "Unexpected monetary incentives and user-generated content on digital platforms."
 
-* Presentations: SCECR 2023, TU Dresden
+* Presentations: SCECR 2023, TU Dresden, Digital Economy Workshop 2024
 
 ## Publications
 
