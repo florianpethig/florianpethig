@@ -24,7 +24,7 @@ My work has been presented at leading conferences in information systems and mar
 
 ## Work in Progress
 
-Pethig F, Hoehle H, Hui KL, Lanz A (2023). "[Behavior toward newcomers and contributions to online communities](/preprints/nudge.pdf)."
+Pethig F, Hoehle H, Hui KL, Lanz A (2024). "[Behavior toward newcomers and contributions to online communities](/preprints/nudge.pdf)."
 
 * Presentations: University of Cologne, TU Darmstadt, University of Mannheim, ISMS Marketing Science Conference 2021, CityU, SUSTech, HKUST, HEC Paris, TU Munich, Erasmus University Rotterdam, Tilburg University
 

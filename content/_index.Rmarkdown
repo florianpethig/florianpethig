@@ -26,7 +26,7 @@ My work has been presented at leading conferences in information systems and mar
 
 ```{r wp, echo=FALSE, results='asis'}
 biblio <- bibtex::read.bib("bibliography.bib")
-cat(capture.output(biblio["pethig2023MISQ"]))
+cat(capture.output(biblio["pethig2024MISQ"]))
 cat('\n\n')
 cat('* Presentations: University of Cologne, TU Darmstadt, University of Mannheim, ISMS Marketing Science Conference 2021, CityU, SUSTech, HKUST, HEC Paris, TU Munich, Erasmus University Rotterdam, Tilburg University')
 cat('\n\n')
