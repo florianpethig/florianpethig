@@ -30,7 +30,7 @@ Pethig F, Hoehle H, Hui KL, Lanz A (2023). "Unexpected monetary incentives and u
 
 ## Publications
 
-Pethig F, Hoehle H, Hui KL, Lanz A (2024). "Behavior toward newcomers and contributions to online communities." _MIS Quarterly_, accepted.
+Pethig F, Hoehle H, Hui KL, Lanz A (2024). "Behavior toward newcomers and contributions to online communities." _MIS Quarterly_, forthcoming.
 
 Pethig F, Kroenung J (2023). "[Biased humans, (un) biased algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf)." _Journal of Business Ethics_, *183*, 637-652.
 [[Preprint]](/preprints/bias.pdf) -- [[Replication]](https://osf.io/axgp2/)
