@@ -41,7 +41,7 @@ cat(capture.output(biblio["pethig2019specialized"]))
 
 ```{r wp, echo=FALSE, results='asis'}
 biblio <- bibtex::read.bib("bibliography.bib")
-cat(capture.output(biblio["pethig2023unexpected"])) 
+cat(capture.output(biblio["pethig2024unexpected"])) 
 cat('\n\n')
 cat('* Presentations: SCECR 2023, TU Dresden, Digital Economy Workshop 2024')
 ```

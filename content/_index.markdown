@@ -37,7 +37,7 @@ Pethig F, Kroenung J (2019). "[Specialized information systems for the digitally
 
 ## Work in Progress
 
-Pethig F, Hoehle H, Hui KL, Lanz A (2023). "Unexpected monetary incentives and user-generated content on digital platforms."
+Pethig F, Hoehle H, Hui KL, Lanz A (2024). "Unexpected monetary incentives and user-generated content on digital platforms."
 
 * Presentations: SCECR 2023, TU Dresden, Digital Economy Workshop 2024
 
