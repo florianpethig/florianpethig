@@ -39,7 +39,11 @@ Pethig F, Kroenung J (2019). "[Specialized information systems for the digitally
 
 Pethig F, Hoehle H, Hui KL, Lanz A (2024). "Unexpected monetary incentives and user-generated content on digital platforms."
 
-* Presentations: SCECR 2023, TU Dresden, Digital Economy Workshop 2024
+* Presentations: SCECR 2023, TU Dresden, Tilburg University, Digital Economy Workshop 2024, ISDAEB 2024, ICIS 2024, Creator Economy Retreat 2025
+
+Pethig F (2024). "Pre-moderation in online communities: Evidence from a natural experiment."
+
+* Presentations: Workshop on Digital Markets 2024, SCECR 2024, WISE 2024
 
 
 
