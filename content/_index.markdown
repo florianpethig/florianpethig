@@ -24,25 +24,21 @@ My work has been presented at conferences in information systems and marketing, 
 
 ## Publications
 
-Pethig F, Hoehle H, Hui KL, Lanz A (2024). "[Behavior toward newcomers and contributions to online communities](https://misq.umn.edu/behavior-toward-newcomers-and-contributions-to-online-communities.html)." _MIS Quarterly_, forthcoming.
-[[Online Appendix]](/preprints/nudge_appendix.pdf) -- [[Replication]](https://osf.io/sgmv2/)
+[Behavior Toward Newcomers and Contributions to Online Communities](https://doi.org/10.25300/MISQ/2024/17759) 
+(with [Hartmut Hoehle](https://www.bwl.uni-mannheim.de/en/hoehle/team/prof-dr-hartmut-hoehle/), [Kai-Lung Hui](http://klhui.people.ust.hk), and [Andreas Lanz](https://wwz.unibas.ch/de/personen/andreas-lanz/)). ***MIS Quarterly***, Forthcoming. [[Online Appendix]](/preprints/nudge_appendix.pdf) -- [[Replication]](https://osf.io/sgmv2/)
 
-Pethig F, Kroenung J (2023). "[Biased humans, (un) biased algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf)." _Journal of Business Ethics_, *183*, 637-652.
-[[Preprint]](/preprints/bias.pdf) -- [[Replication]](https://osf.io/axgp2/)
--- Media: [[Psychology Today]](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring) [[Forbes France]](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/) [[The Gender Policy Report]](https://genderpolicyreport.umn.edu/algorithmic-bias-in-job-hiring/)
+[Biased humans, (Un)Biased Algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf) (with [Julia Kroenung](https://www.fernuni-hagen.de/bigsi/team/julia.kroenung.shtml)). <br /> ***Journal of Business Ethics***, 2023, 183, 637-652. [[Preprint]](/preprints/bias.pdf) -- [[Replication]](https://osf.io/axgp2/)  <br /> Media: [[Psychology Today]](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring) [[Forbes France]](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/) [[The Gender Policy Report]](https://genderpolicyreport.umn.edu/algorithmic-bias-in-job-hiring/)
 
-Pethig F, Kroenung J, Noeltner M (2021). "[A stigma power perspective on digital government service avoidance](https://www.sciencedirect.com/science/article/pii/S0740624X20303245)." _Government Information Quarterly_, *38*(2), 101545.
+[A Stigma Power Perspective on Digital Government Service Avoidance](https://www.sciencedirect.com/science/article/pii/S0740624X20303245) (with [Julia Kroenung](https://www.fernuni-hagen.de/bigsi/team/julia.kroenung.shtml)). <br /> ***Government Information Quarterly***, 2021, 38(2), 101545.
 
-Pethig F, Kroenung J (2019). "[Specialized information systems for the digitally disadvantaged](https://aisel.aisnet.org/jais/vol20/iss10/5/)." _Journal of the Association for Information Systems_, *20*(10), 247-265.
+[Specialized Information Systems for the Digitally Disadvantaged](https://aisel.aisnet.org/jais/vol20/iss10/5/) (with [Julia Kroenung](https://www.fernuni-hagen.de/bigsi/team/julia.kroenung.shtml)). <br /> ***Journal of the Association for Information Systems***, 2019, 20(10), 247-265.
 
 ## Work in Progress
 
-Pethig F, Hoehle H, Hui KL, Lanz A (2024). "Unexpected monetary incentives and user-generated content on digital platforms."
-
+Unexpected Monetary Incentives and User-Generated Content (with [Hartmut Hoehle](https://www.bwl.uni-mannheim.de/en/hoehle/team/prof-dr-hartmut-hoehle/), [Kai-Lung Hui](http://klhui.people.ust.hk), and [Andreas Lanz](https://wwz.unibas.ch/de/personen/andreas-lanz/)).
 * Presentations: SCECR 2023, TU Dresden, Tilburg University, Digital Economy Workshop 2024, ISDAEB 2024, ICIS 2024, Creator Economy Retreat 2025
 
-Pethig F (2024). "Pre-moderation in online communities: Evidence from a natural experiment."
-
+Pre-Moderation in Online Communities: Evidence From a Natural Experiment
 * Presentations: Workshop on Digital Markets 2024, SCECR 2024, WISE 2024
 
 
