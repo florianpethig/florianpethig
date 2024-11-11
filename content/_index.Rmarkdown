@@ -4,6 +4,10 @@ title: Home
 
 # Florian Pethig
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
 <div class="flex-container">
 <div class="flex-item-left">
 <img src="avatar.jpeg" style="max-width:240px;" >
@@ -15,22 +19,21 @@ Tilburg University <br>
 </div>
 <div class="flex-item-right" style="text-align: justify">
 <span style="">
-I am an Assistant Professor of Information Systems at <a href="https://www.tilburguniversity.edu">Tilburg University</a>. I received my M.Sc. and Ph.D. in Information Systems from the <a href="https://www.uni-mannheim.de/en/">University of Mannheim</a>. I previously worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a> (Lufthansa Group), specializing in data science and the digital transformation. My research into digital platforms and the digitization of organizations is geared toward understanding how technology impacts the behavior and welfare of people. My work has appeared or is forthcoming in leading journals, such as <i>MIS Quarterly</i>, <i>Journal of the Association for Information Systems</i>, and <i>Journal of Business Ethics</i>.
+I am an Assistant Professor of Information Systems at <a href="https://www.tilburguniversity.edu">Tilburg University</a>. I received my PhD from the <a href="https://www.uni-mannheim.de/en/">University of Mannheim</a>. Previously, I worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a>. My research focuses on digital platforms, user-generated content, and the societal impact of IT. 
 
-My work has been presented at conferences in information systems and marketing, including the International Conference on Information Systems (ICIS), the Symposium on Statistical Challenges in Electronic Commerce Research (SCECR), the Workshop on Information Technologies and Systems (WITS), and the Marketing Science Conference. I have received funding from the German Academic Exchange Service (DAAD), the Joachim Herz Foundation, and Wikimedia Deutschland. I have received the [Best Associate Editor Award](/awards/ae_ecis2023.png) from the European Conference on Information Systems (ECIS) in 2023.
-</span>
-</div>
-</div>
+My work is published in leading journals, including <i>MIS Quarterly</i>, <i>Journal of the Association for Information Systems</i>, and <i>Journal of Business Ethics</i>. It has also been presented at premier conferences across information systems and marketing, such as ICIS, SCECR, WITS, and the Marketing Science Conference.
+
+I have received funding from the German Academic Exchange Service (DAAD), the Joachim Herz Foundation, and Wikimedia Deutschland. In 2023, I received the [Best Associate Editor Award](/awards/ae_ecis2023.png) at ECIS.
 
 ## Publications
 
-[Behavior Toward Newcomers and Contributions to Online Communities](https://doi.org/10.25300/MISQ/2024/17759) <br /> (with Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz) <br /> ***MIS Quarterly***, Forthcoming. [[Online Appendix]](/preprints/nudge_appendix.pdf) -- [[Replication]](https://osf.io/sgmv2/)
+[Behavior Toward Newcomers and Contributions to Online Communities](https://doi.org/10.25300/MISQ/2024/17759) <br /> (with Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz) <br /> ***MIS Quarterly***, forthcoming.  <br /> [[Online Appendix]](/preprints/nudge_appendix.pdf) -- [[Replication]](https://osf.io/sgmv2/)
 
-[Biased humans, (Un)Biased Algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf) <br /> (with Julia Kroenung) <br /> ***Journal of Business Ethics***, 2023, 183, 637-652. [[Preprint]](/preprints/bias.pdf) -- [[Replication]](https://osf.io/axgp2/)  <br /> Media: [[Psychology Today]](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring) [[Forbes France]](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/) [[The Gender Policy Report]](https://genderpolicyreport.umn.edu/algorithmic-bias-in-job-hiring/)
+[Biased Humans, (Un)Biased Algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf) <br /> (with Julia Kroenung) <br /> ***Journal of Business Ethics***, 2023.  <br /> [[Preprint]](/preprints/bias.pdf) -- [[Replication]](https://osf.io/axgp2/)  <br /> Media: [[Psychology Today]](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring) [[Forbes France]](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/) [[The Gender Policy Report]](https://genderpolicyreport.umn.edu/algorithmic-bias-in-job-hiring/)
 
-[A Stigma Power Perspective on Digital Government Service Avoidance](https://www.sciencedirect.com/science/article/pii/S0740624X20303245) <br /> (with Julia Kroenung) <br /> ***Government Information Quarterly***, 2021, 38(2), 101545.
+[A Stigma Power Perspective on Digital Government Service Avoidance](https://www.sciencedirect.com/science/article/pii/S0740624X20303245) <br /> (with Julia Kroenung) <br /> ***Government Information Quarterly***, 2021.
 
-[Specialized Information Systems for the Digitally Disadvantaged](https://aisel.aisnet.org/jais/vol20/iss10/5/) <br /> (with Julia Kroenung) <br /> ***Journal of the Association for Information Systems***, 2019, 20(10), 247-265.
+[Specialized Information Systems for the Digitally Disadvantaged](https://aisel.aisnet.org/jais/vol20/iss10/5/) <br /> (with Julia Kroenung) <br /> ***Journal of the Association for Information Systems***, 2019.
 
 ## Work in Progress
 
@@ -39,6 +42,10 @@ Unexpected Monetary Incentives and User-Generated Content <br /> (with Hartmut H
 
 Pre-Moderation in Online Communities: Evidence From a Natural Experiment
 * Presentations: Workshop on Digital Markets 2024, SCECR 2024, WISE 2024
+
+</span>
+</div>
+</div>
 
 
 
