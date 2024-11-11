@@ -17,13 +17,15 @@ Department of Information Systems <br> and Operations Managmement<br>
 Tilburg University <br>
 <a href="mailto:f.pethig@tilburguniversity.edu">f.pethig@tilburguniversity.edu</a></p>
 </div>
+
 <div class="flex-item-right" style="text-align: justify">
-<span style="">
 I am an Assistant Professor of Information Systems at <a href="https://www.tilburguniversity.edu">Tilburg University</a>. I received my PhD from the <a href="https://www.uni-mannheim.de/en/">University of Mannheim</a>. Previously, I worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a>. My research focuses on digital platforms, user-generated content, and the societal impact of IT. 
 
 My work is published in leading journals, including <i>MIS Quarterly</i>, <i>Journal of the Association for Information Systems</i>, and <i>Journal of Business Ethics</i>. It has also been presented at premier conferences across information systems and marketing, such as ICIS, SCECR, WITS, and the Marketing Science Conference.
 
 I have received funding from the German Academic Exchange Service (DAAD), the Joachim Herz Foundation, and Wikimedia Deutschland. In 2023, I received the [Best Associate Editor Award](/awards/ae_ecis2023.png) at ECIS.
+
+<div style="text-align: left">
 
 ## Publications
 
@@ -37,13 +39,13 @@ I have received funding from the German Academic Exchange Service (DAAD), the Jo
 
 ## Work in Progress
 
-Unexpected Monetary Incentives and User-Generated Content <br /> (with Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz)
+[Unexpected Monetary Incentives and User-Generated Content on Digital Platforms](https://aisel.aisnet.org/icis2024/user_behav/user_behav/15/) <br /> (with Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz)
 * Presentations: SCECR 2023, TU Dresden, Tilburg University, Digital Economy Workshop 2024, ISDAEB 2024, ICIS 2024, Creator Economy Retreat 2025
 
 Pre-Moderation in Online Communities: Evidence From a Natural Experiment
 * Presentations: Workshop on Digital Markets 2024, SCECR 2024, WISE 2024
 
-</span>
+</div>
 </div>
 </div>
 
