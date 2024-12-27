@@ -1,5 +1,5 @@
 ---
-title: Florian Pethig
+title: Home
 ---
 
 # Florian Pethig
