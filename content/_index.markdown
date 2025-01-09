@@ -39,7 +39,7 @@ I have received funding from the German Academic Exchange Service (DAAD), the Jo
 
 ## Work in Progress
 
-[Unexpected Monetary Incentives and User-Generated Content on Digital Platforms](https://aisel.aisnet.org/icis2024/user_behav/user_behav/15/) <br /> Florian Pethig, Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz <br /> [[ICIS Paper]](/preprints/unexpected_icis2024.pdf)
+[Unexpected Monetary Incentives and User-Generated Content on Digital Platforms](https://aisel.aisnet.org/icis2024/user_behav/user_behav/15/) <br /> Florian Pethig, Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz
 * Presentations: SCECR 2023, TU Dresden, Tilburg University, Digital Economy Workshop 2024, ISDAEB 2024, ICIS 2024
 
 Pre-Moderation in Online Communities: Evidence From a Natural Experiment
