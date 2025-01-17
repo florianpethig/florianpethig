@@ -31,7 +31,7 @@ I have received funding from the German Academic Exchange Service (DAAD), the Jo
 
 [Behavior Toward Newcomers and Contributions to Online Communities](https://doi.org/10.25300/MISQ/2024/17759) <br /> Florian Pethig, Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz <br /> ***MIS Quarterly***, forthcoming.  <br /> [[Online Appendix]](/preprints/nudge_appendix.pdf) -- [[Replication]](https://osf.io/sgmv2/)
 
-[Biased Humans, (Un)Biased Algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf) <br /> Florian Pethig and Julia Kroenung <br /> ***Journal of Business Ethics***, 2023.  <br /> [[Preprint]](/preprints/bias.pdf) -- [[Replication]](https://osf.io/axgp2/)  <br /> Media: [[Psychology Today]](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring) [[Forbes France]](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/) Blog: [[The Gender Policy Report]](https://genderpolicyreport.umn.edu/algorithmic-bias-in-job-hiring/)
+[Biased Humans, (Un)Biased Algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf) <br /> Florian Pethig and Julia Kroenung <br /> ***Journal of Business Ethics***, 2023.  <br /> [[PDF]](/preprints/bias.pdf) -- [[Replication]](https://osf.io/axgp2/)  <br /> Media: [[Psychology Today]](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring) [[Forbes France]](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/) Blog: [[The Gender Policy Report]](https://genderpolicyreport.umn.edu/algorithmic-bias-in-job-hiring/)
 
 [A Stigma Power Perspective on Digital Government Service Avoidance](https://www.sciencedirect.com/science/article/pii/S0740624X20303245) <br /> Florian Pethig and Julia Kroenung <br /> ***Government Information Quarterly***, 2021.
 
@@ -45,6 +45,9 @@ I have received funding from the German Academic Exchange Service (DAAD), the Jo
 Pre-Moderation in Online Communities: Evidence From a Natural Experiment
 <br /> Florian Pethig
 * Presentations: Workshop on Digital Markets 2024, SCECR 2024, WISE 2024
+
+[Analytics Dashboards and User Behavior: Evidence from GitHub](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5098625) <br /> Jan Schilpp, Florian Pethig, and Hartmut Hoehle <br /> [[PDF]](/preprints/analytics.pdf) -- [[Online Appendix]](/preprints/analytics_appendix.pdf)
+* Presentations: MIPRO ICT and Electronics Convention 2023, ISR Paper Development Workshop 2024
 
 </div>
 </div>
