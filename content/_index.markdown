@@ -23,7 +23,7 @@ I am an Assistant Professor of Information Systems at <a href="https://www.tilbu
 
 My work is published in leading journals, including <i>MIS Quarterly</i>, <i>Journal of the Association for Information Systems</i>, and <i>Journal of Business Ethics</i>. It has also been presented at premier conferences across information systems and marketing, such as ICIS, SCECR, WISE, and the Marketing Science Conference.
 
-I have received funding from the German Academic Exchange Service (DAAD), the Joachim Herz Foundation, and Wikimedia Deutschland. In 2023, I received the [Best Associate Editor Award](/awards/ae_ecis2023.png) at ECIS.
+I have received funding from the German Academic Exchange Service (DAAD), the Joachim Herz Foundation, and Wikimedia Deutschland. In 2023, I received the [Best Associate Editor Award](/awards/ae_ecis2023.png) at ECIS. I regularly serve as a reviewer for leading journals in information systems and management, including <i>Management Science</i>, <i>MIS Quarterly</i>, and <i>Information Systems Research</i>.
 
 <div style="text-align: left">
 
