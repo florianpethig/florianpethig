@@ -29,7 +29,7 @@ I have received funding from the German Academic Exchange Service (DAAD), the Jo
 
 ## Journal Publications
 
-[Behavior Toward Newcomers and Contributions to Online Communities](https://doi.org/10.25300/MISQ/2024/17759) <br /> Florian Pethig, Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz <br /> ***MIS Quarterly***, forthcoming.  <br /> [[Online Appendix]](/preprints/nudge_appendix.pdf) -- [[Replication]](https://osf.io/sgmv2/)
+[Behavior Toward Newcomers and Contributions to Online Communities](https://doi.org/10.25300/MISQ/2024/17759) <br /> Florian Pethig, Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz <br /> ***MIS Quarterly***, 2025.  <br /> [[PDF]](/preprints/nudge.pdf) -- [[Replication]](https://osf.io/sgmv2/)
 
 [Biased Humans, (Un)Biased Algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf) <br /> Florian Pethig and Julia Kroenung <br /> ***Journal of Business Ethics***, 2023.  <br /> [[PDF]](/preprints/bias.pdf) -- [[Replication]](https://osf.io/axgp2/)  <br /> Media: [[Psychology Today]](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring) [[Forbes France]](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/) Blog: [[The Gender Policy Report]](https://genderpolicyreport.umn.edu/algorithmic-bias-in-job-hiring/)
 
