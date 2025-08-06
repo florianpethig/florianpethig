@@ -41,7 +41,7 @@ I have received funding from the German Academic Exchange Service (DAAD), the Jo
 
 <sup>\*</sup> denotes a presentation by a co-author.
 
-[Analytics Dashboards and User Behavior: Evidence from GitHub](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5098625) <br /> Jan Schilpp, Florian Pethig, and Hartmut Hoehle <br /> [[PDF]](/preprints/analytics.pdf) -- [[Online Appendix]](/preprints/analytics_appendix.pdf)
+[Analytics Dashboards and User Behavior: Evidence from GitHub](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5098625) <br /> Jan Schilpp, Florian Pethig, and Hartmut Hoehle
 * Presentations: MIPRO ICT and Electronics Convention 2023<sup>\*</sup>, ISR Paper Development Workshop 2024<sup>\*</sup>
 
 [Unexpected Monetary Incentives and User-Generated Content on Digital Platforms](https://aisel.aisnet.org/icis2024/user_behav/user_behav/15/) <br /> Florian Pethig, Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz
@@ -49,7 +49,7 @@ I have received funding from the German Academic Exchange Service (DAAD), the Jo
 
 Pre-Moderation in Online Communities: Evidence From a Natural Experiment
 <br /> Florian Pethig
-* Presentations: Workshop on Digital Markets 2024, SCECR 2024, WISE 2024
+* Presentations: Workshop on Digital Markets 2024, SCECR 2024, WISE 2024, ICIS 2025 (*conditional accept*)
 
 </div>
 </div>
