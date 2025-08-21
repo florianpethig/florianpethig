@@ -39,7 +39,7 @@ I have received funding from the German Academic Exchange Service (DAAD), the Jo
 
 ## Work in Progress
 
-[Pre-Moderation in Online Brand Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395583) <br /> Florian Pethig
+[Pre-Moderation in Online Brand Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400176) <br /> Florian Pethig
 * Presentations: Workshop on Digital Markets 2024, SCECR 2024, WISE 2024, Tilburg University, ICIS 2025 (*conditional accept*)
 
 [Analytics Dashboards and User Behavior: Evidence from GitHub](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5098625) <br /> Jan Schilpp, Florian Pethig, and Hartmut Hoehle
