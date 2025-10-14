@@ -40,7 +40,7 @@ My projects have received funding from the Dutch Research Council (NWO), the Ger
 ## Work in Progress
 
 [Pre-Moderation in Online Brand Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400176) <br /> Florian Pethig
-* Presentations: Workshop on Digital Markets 2024, SCECR 2024, WISE 2024, Tilburg University, ICIS 2025 (*conditional accept*)
+* Presentations: Workshop on Digital Markets 2024, SCECR 2024, WISE 2024, Tilburg University, ICIS 2025
 
 [Analytics Dashboards and User Behavior: Evidence from GitHub](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5098625) <br /> Jan Schilpp, Florian Pethig, and Hartmut Hoehle
 * Presentations: MIPRO ICT and Electronics Convention 2023, ISR Paper Development Workshop 2024
