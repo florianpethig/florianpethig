@@ -21,7 +21,7 @@ Tilburg University <br>
 <div class="flex-item-right" style="text-align: justify">
 I am an Assistant Professor of Information Systems at <a href="https://www.tilburguniversity.edu">Tilburg University</a>. I received my PhD from the <a href="https://www.uni-mannheim.de/en/">University of Mannheim</a>. Previously, I worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a>. My research focuses on digital platforms, user-generated content, and the societal impact of IT. 
 
-My work is published in leading journals, including <i>MIS Quarterly</i>, <i>Journal of the Association for Information Systems</i>, and <i>Journal of Business Ethics</i>. It has also been presented at premier conferences across information systems and marketing, such as ICIS, SCECR, WISE, and the Marketing Science Conference.
+My work is published or forthcoming in leading journals, including <i>MIS Quarterly</i>, <i>Information Systems Research</i>, and <i>Journal of the Association for Information Systems</i>. It has also been presented at premier conferences across information systems and marketing, such as ICIS, SCECR, WISE, and the Marketing Science Conference.
 
 My projects have received funding from the Dutch Research Council (NWO), the German Academic Exchange Service (DAAD), the Joachim Herz Foundation, and Wikimedia Deutschland. In 2023, I received the [Best Associate Editor Award](/awards/ae_ecis2023.png) at ECIS. I regularly serve as a reviewer for leading journals in information systems and management, including <i>Management Science</i>, <i>MIS Quarterly</i>, and <i>Information Systems Research</i>.
 
