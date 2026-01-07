@@ -2,6 +2,15 @@
 title: Research
 ---
 
+```{r pub-facebook, echo=FALSE, results='asis'}
+biblio <- bibtex::read.bib("bibliography.bib")
+cat("###", capture.output(biblio["schlackl2025reactions"]))
+```
+
+<p align="justify">Individuals react negatively to data breaches, for example, by perceiving anxiety and losing trust. Such responses are exhibited by both the actual data breach victims, whose privacy has been violated, and by individuals who may only have been potentially affected. Understanding how reactions differ across these groups can help data breach crisis management, communication, and compensation, but prior research has not examined the similarities or differences between them. Here, we exploit the publicly available breach notification of Facebook's Cambridge Analytica breach to identify effects on actual breach victims in a real-world setting. Using two waves of data collection as a quasi-natural experiment (n = 380), we find that actual breach victims show stronger initial reactions than non-victims in several outcome variables, such as continuance intention, trust, perceived psychological contract breach, feelings of violation, and online social network belongingness. These effects are heterogeneous, small, and partially independent of prior Facebook use and breach experience. In a third wave (n = 183), we find that differences between the groups disappear within six months. In a follow-up preregistered longitudinal experiment using scenarios (n = 653), we find that cognitive dissonance increases victims' post-breach attitudes, as high switching costs render leaving the platform unfeasible. However, we also find non-dissonant victims to show greater attitude regression over time, hinting at a self-perception mechanism. Our findings have implications for the literature on data breach reactions and remediation and on privacy in online social networks.</font></p>
+
+<p align="center"><img src="/about/osn_belong.png" style="width:100%; max-width:400px"></p>
+
 ```{r pub-nudge, echo=FALSE, results='asis'}
 biblio <- bibtex::read.bib("bibliography.bib")
 cat("###", capture.output(biblio["pethig2025behavior"]))

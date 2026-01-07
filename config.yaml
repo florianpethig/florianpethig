@@ -25,7 +25,7 @@ menu:
 
 params:
   description: "Florian Pethig"
-  footer: "[Google Scholar](https://scholar.google.com/citations?user=ha8hFp8AAAAJ) | [LinkedIn](https://www.linkedin.com/in/florianpethig/) | [Twitter](https://twitter.com/florianpethig) | Made with [Hugo XMin](https://github.com/yihui/hugo-xmin)"
+  footer: "[Google Scholar](https://scholar.google.com/citations?user=ha8hFp8AAAAJ) | [LinkedIn](https://www.linkedin.com/in/florianpethig/) | Made with [Hugo XMin](https://github.com/yihui/hugo-xmin)"
 markup:
   highlight:
     codeFences: false
