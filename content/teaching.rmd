@@ -12,6 +12,7 @@ Lecturer evaluations are in parentheses. Evaluations are based on a 5-point scal
 **Information Management for Pre-Master**
 
 * Fall 2024 (4.3)
+* Fall 2025 (4.8)
 
 ## University of Mannheim
 Evaluations are based on a 5-point scale with 1 being the highest rating.
@@ -37,8 +38,13 @@ Evaluations are based on a 5-point scale with 1 being the highest rating.
 
 **Change Management & Organizational Dynamics**
 
-* Fall 2024
+* Fall 2024/25
+* Fall 2025/26
 
 **Organizational Behavior**
 
-* Spring 2025
+* Fall 2024/25
+* Fall 2025/26
+
+**Data, Analytics & Digital Transformation**
+

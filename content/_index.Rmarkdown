@@ -29,7 +29,7 @@ My projects have received funding from the Dutch Research Council (NWO), the Ger
 
 ## Journal Publications
 
-[Reactions by Actual Data Breach Victims Over Time: Evidence From Facebook's Cambridge Analytica Breach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5904902) <br /> Frederic Schlackl, Florian Pethig, Hartmut Hoehle, and Rajiv Sabherwal <br /> ***Information Systems Research***, forthcoming.  <br /> [[PDF]](/preprints/facebook.pdf)
+[Reactions by Actual Data Breach Victims Over Time: Evidence From Facebook's Cambridge Analytica Breach](https://pubsonline.informs.org/doi/full/10.1287/isre.2023.0391) <br /> Frederic Schlackl, Florian Pethig, Hartmut Hoehle, and Rajiv Sabherwal <br /> ***Information Systems Research***, forthcoming.  <br /> [[PDF]](/preprints/facebook.pdf)
 
 [Behavior Toward Newcomers and Contributions to Online Communities](https://doi.org/10.25300/MISQ/2024/17759) <br /> Florian Pethig, Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz <br /> ***MIS Quarterly***, 2025.  <br /> [[PDF]](/preprints/nudge.pdf) -- [[Replication]](https://osf.io/sgmv2/)
 
@@ -41,14 +41,14 @@ My projects have received funding from the Dutch Research Council (NWO), the Ger
 
 ## Work in Progress
 
+[Unexpected Monetary Incentives and User-Generated Content on Digital Platforms](https://aisel.aisnet.org/icis2024/user_behav/user_behav/15/) <br /> Florian Pethig, Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz
+* Presentations: SCECR 2023, TU Dresden, Tilburg University, Digital Economy Workshop 2024, ISDAEB 2024, ICIS 2024
+
 [Pre-Moderation in Online Brand Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400176) <br /> Florian Pethig
 * Presentations: Workshop on Digital Markets 2024, SCECR 2024, WISE 2024, Tilburg University, ICIS 2025
 
 [Analytics Dashboards and User Behavior: Evidence from GitHub](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5098625) <br /> Jan Schilpp, Florian Pethig, and Hartmut Hoehle
 * Presentations: MIPRO ICT and Electronics Convention 2023, ISR Paper Development Workshop 2024
-
-[Unexpected Monetary Incentives and User-Generated Content on Digital Platforms](https://aisel.aisnet.org/icis2024/user_behav/user_behav/15/) <br /> Florian Pethig, Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz
-* Presentations: SCECR 2023, TU Dresden, Tilburg University, Digital Economy Workshop 2024, ISDAEB 2024, ICIS 2024
 
 </div>
 </div>
