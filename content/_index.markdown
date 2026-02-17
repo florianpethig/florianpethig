@@ -29,7 +29,7 @@ My projects have received funding from the Dutch Research Council (NWO), the Ger
 
 ## Journal Publications
 
-[Reactions by Actual Data Breach Victims Over Time: Evidence From Facebook's Cambridge Analytica Breach](https://pubsonline.informs.org/doi/full/10.1287/isre.2023.0391) <br /> Frederic Schlackl, Florian Pethig, Hartmut Hoehle, and Rajiv Sabherwal <br /> ***Information Systems Research***, forthcoming.  <br /> [[PDF]](/preprints/facebook.pdf)
+[Reactions by Actual Data Breach Victims Over Time: Evidence From Facebook's Cambridge Analytica Breach](https://pubsonline.informs.org/doi/full/10.1287/isre.2023.0391) <br /> Frederic Schlackl, Florian Pethig, Hartmut Hoehle, and Rajiv Sabherwal <br /> ***Information Systems Research***, forthcoming.  <br /> [[PDF]](/preprints/facebook.pdf) <br /> Blog: [[Research Insights]](https://walton.uark.edu/insights/posts/understanding-short-term-shock-and-long-term-recovery-after-data-breaches.php)
 
 [Behavior Toward Newcomers and Contributions to Online Communities](https://doi.org/10.25300/MISQ/2024/17759) <br /> Florian Pethig, Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz <br /> ***MIS Quarterly***, 2025.  <br /> [[PDF]](/preprints/nudge.pdf) -- [[Replication]](https://osf.io/sgmv2/)
 
