@@ -3,13 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='12' fill='%235c6b7a'/><text y='68' x='50' text-anchor='middle' font-size='42' font-family='Georgia,serif' fill='%23f5f0e8' font-weight='bold'>FP</text></svg>">
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
     {{ partial "head_custom.html" . }}
   </head>
 
-  <body>
+  <body{{ if .IsHome }} class="home-layout"{{ end }}>
     <nav>
     <ul class="menu">
       {{ range .Site.Menus.main }}
@@ -17,3 +18,4 @@
       {{ end }}
     </ul>
     </nav>
+{{ if not .IsHome }}<div class="inner-layout">{{ end }}

@@ -4,17 +4,19 @@
 <h1>{{ .Title | markdownify }}</h1>
 {{ end }}
 
+{{ if .IsHome }}<div class="home-panels">{{ end }}
 {{ .Content }}
+{{ if .IsHome }}</div>{{ end }}
 
+{{ if not .IsHome }}
 <ul>
-  {{ $pages := .Pages }}
-  {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
-  {{ range (where $pages "Section" "!=" "") }}
+  {{ range (where .Pages "Section" "!=" "") }}
   <li>
     <span class="date">{{ .Date.Format "2006/01/02" }}</span>
     <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
   </li>
   {{ end }}
 </ul>
+{{ end }}
 
 {{ partial "footer.html" . }}
