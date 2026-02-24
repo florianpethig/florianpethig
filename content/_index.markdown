@@ -3,7 +3,7 @@ title: Home
 ---
 
 <div class="sidebar">
-  <img class="sidebar-photo" src="avatar.jpeg" alt="Florian Pethig">
+  <img class="sidebar-photo" src="avatar_old.jpeg" alt="Florian Pethig">
   <div class="sidebar-info">
     <p class="sidebar-name">Florian Pethig</p>
     <p>Assistant Professor<br>
@@ -18,7 +18,7 @@ title: Home
 
 <div class="bio">
 
-I am an Assistant Professor of Information Systems at <a href="https://www.tilburguniversity.edu">Tilburg University</a>. I received my PhD from the <a href="https://www.uni-mannheim.de/en/">University of Mannheim</a>. Previously, I worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a>. My research focuses on digital platforms, user-generated content, and the societal impact of IT.
+I am an Assistant Professor of Information Systems at <a href="https://www.tilburguniversity.edu">Tilburg University</a>. I received my PhD from the <a href="https://www.uni-mannheim.de/en/">University of Mannheim</a>. Previously, I worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a> (<a href="https://www.lufthansagroup.com/">Lufthansa Group</a>). My research focuses on digital platforms, user-generated content, and the societal impact of IT.
 
 My work is published or forthcoming in leading journals, including <i>Information Systems Research</i>, <i>MIS Quarterly</i>, and <i>Journal of the Association for Information Systems</i>. It has also been presented at premier conferences across information systems and marketing, such as ICIS, SCECR, WISE, and the Marketing Science Conference.
 
