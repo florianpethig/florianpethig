@@ -34,19 +34,8 @@ My projects have received funding from the Dutch Research Council (NWO), the Ger
 
 [Biased Humans, (Un)Biased Algorithms?](https://link.springer.com/content/pdf/10.1007/s10551-022-05071-8.pdf) <br /> Florian Pethig and Julia Kroenung <br /> ***Journal of Business Ethics***, 2023.  <br /> [[PDF]](/preprints/bias.pdf) -- [[Replication]](https://osf.io/axgp2/)  <br /> Media: [[Psychology Today]](https://www.psychologytoday.com/us/blog/the-behavioral-science-hub/202210/will-algorithms-remove-gender-bias-in-hiring) [[Forbes France]](https://www.forbes.fr/business/algorithme-leadership-vers-une-parite-homme-femme/) Blog: [[The Gender Policy Report]](https://genderpolicyreport.umn.edu/algorithmic-bias-in-job-hiring/)
 
-[A Stigma Power Perspective on Digital Government Service Avoidance](https://www.sciencedirect.com/science/article/pii/S0740624X20303245) <br /> Florian Pethig and Julia Kroenung <br /> ***Government Information Quarterly***, 2021.
+[A Stigma Power Perspective on Digital Government Service Avoidance](https://www.sciencedirect.com/science/article/pii/S0740624X20303245) <br /> Florian Pethig, Julia Kroenung, and Markus Noeltner <br /> ***Government Information Quarterly***, 2021.
 
 [Specialized Information Systems for the Digitally Disadvantaged](https://aisel.aisnet.org/jais/vol20/iss10/5/) <br /> Florian Pethig and Julia Kroenung <br /> ***Journal of the Association for Information Systems***, 2019.
-
-## Work in Progress
-
-[Unexpected Monetary Incentives and User-Generated Content on Digital Platforms](https://aisel.aisnet.org/icis2024/user_behav/user_behav/15/) <br /> Florian Pethig, Hartmut Hoehle, Kai-Lung Hui, and Andreas Lanz
-* Presentations: SCECR 2023, TU Dresden, Tilburg University, Digital Economy Workshop 2024, ISDAEB 2024, ICIS 2024
-
-[Pre-Moderation in Online Brand Communities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400176) <br /> Florian Pethig
-* Presentations: Workshop on Digital Markets 2024, SCECR 2024, WISE 2024, Tilburg University, ICIS 2025
-
-[Analytics Dashboards and User Behavior: Evidence from GitHub](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5098625) <br /> Jan Schilpp, Florian Pethig, and Hartmut Hoehle
-* Presentations: MIPRO ICT and Electronics Convention 2023, ISR Paper Development Workshop 2024
 
 </div>
