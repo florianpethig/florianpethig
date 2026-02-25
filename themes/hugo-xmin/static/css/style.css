@@ -2,14 +2,14 @@
    CSS Custom Properties — Warm Academic Palette
    ============================================= */
 :root {
-  --bg:          #f5f0e8;
-  --surface:     #ede8de;
-  --surface-alt: #e4ddd0;
+  --bg:          #f7f0e5;
+  --surface:     #eedcb8;
+  --surface-alt: #e8d4b2;
   --text:        #2d2d2d;
-  --accent:      #5c6b7a;
-  --accent-warm: #8b4a3b;
+  --accent:      #003366;
+  --accent-warm: #cc9933;
   --muted:       #7a7068;
-  --border:      #d4cfc5;
+  --border:      #e8d4b2;
   --sidebar-w:   340px;
 }
 
