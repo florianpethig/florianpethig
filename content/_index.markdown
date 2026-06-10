@@ -6,7 +6,7 @@ title: Home
   <img class="sidebar-photo" src="avatar_old.jpeg" alt="Florian Pethig">
   <div class="sidebar-info">
     <p class="sidebar-name">Florian Pethig</p>
-    <p>Assistant Professor<br>
+    <p>Associate Professor<br>
     Department of Information Systems<br>and Operations Management<br>
     Tilburg University</p>
     <p><a href="mailto:f.pethig@tilburguniversity.edu">f.pethig@tilburguniversity.edu</a></p>
@@ -18,17 +18,17 @@ title: Home
 
 <div class="bio">
 
-I am an Assistant Professor of Information Systems at <a href="https://www.tilburguniversity.edu">Tilburg University</a>. I received my PhD from the <a href="https://www.uni-mannheim.de/en/">University of Mannheim</a>. Previously, I worked as a business data analyst at <a href="https://www.zerog.aero">zeroG</a> (<a href="https://www.lufthansagroup.com/">Lufthansa Group</a>). My research focuses on digital platforms, user-generated content, and the societal impact of IT.
+I am an Associate Professor of Information Systems at <a href="https://www.tilburguniversity.edu">Tilburg University</a>. I received my PhD from the <a href="https://www.uni-mannheim.de/en/">University of Mannheim</a>. My research investigates digital platforms, user-generated content, and the societal impact of IT. This focus was inspired by my previous work as a business data analyst at <a href="https://www.zerog.aero">zeroG</a> (<a href="https://www.lufthansagroup.com/">Lufthansa Group</a>), where I helped develop a wireless in-flight entertainment platform.
 
-My work is published or forthcoming in leading journals, including <i>Information Systems Research</i>, <i>MIS Quarterly</i>, and <i>Journal of the Association for Information Systems</i>. It has also been presented at premier conferences across information systems and marketing, such as ICIS, SCECR, WISE, and the Marketing Science Conference.
+My work is published or forthcoming in leading journals, including <i>Information Systems Research</i> (forthcoming), <i>MIS Quarterly</i> (2025), the <i>Journal of Business Ethics</i> (2023), and the <i>Journal of the Association for Information Systems</i> (2019). I regularly present my research at premier conferences across information systems and marketing, such as ICIS, SCECR, WISE, and the ISMS Marketing Science Conference. My projects have received funding from the Dutch Research Council (NWO), the German Academic Exchange Service (DAAD), the Joachim Herz Foundation, and Wikimedia Deutschland. 
 
-My projects have received funding from the Dutch Research Council (NWO), the German Academic Exchange Service (DAAD), the Joachim Herz Foundation, and Wikimedia Deutschland. In 2023, I received the [Best Associate Editor Award](/awards/ae_ecis2023.png) at ECIS. I regularly serve as a reviewer for leading journals in information systems and management, including <i>Management Science</i>, <i>MIS Quarterly</i>, and <i>Information Systems Research</i>.
+I am committed to education and was recognized as an [Excellent Teacher](/awards/excellent_teacher.pdf) at the [Tilburg School of Economics and Management (TiSEM)](https://www.tilburguniversity.edu/about/schools/economics-and-management). I am also actively engaged in the academic community. I serve as a Track Chair for ECIS 2026 and 2027, building on my previous recognition with the [Best Associate Editor Award](/awards/ae_ecis2023.png) at ECIS 2023. Furthermore, I regularly serve as a reviewer for leading journals in information systems and management, including <i>Management Science</i>, <i>MIS Quarterly</i>, and <i>Information Systems Research</i>.
 
 </div>
 
 ## Journal Publications
 
-[Reactions by Actual Data Breach Victims Over Time: Evidence From Facebook's Cambridge Analytica Breach](https://pubsonline.informs.org/doi/full/10.1287/isre.2023.0391) <br /> [Frederic Schlackl](https://www.hec.ca/en/profs/frederic.schlackl.html), Florian Pethig, [Hartmut Hoehle](https://www.bwl.uni-mannheim.de/hoehle/team/prof-dr-hartmut-hoehle/), and [Rajiv Sabherwal](https://walton.uark.edu/departments/information-systems/directory/uid/rsabherw/name/Rajiv+Sabherwal/) <br /> ***Information Systems Research***, forthcoming.  <br /> [[PDF]](/preprints/facebook.pdf) <br /> Articles: [[Research Insights]](https://walton.uark.edu/insights/posts/understanding-short-term-shock-and-long-term-recovery-after-data-breaches.php) [[News Tilburg University]](https://www.tilburguniversity.edu/current/news/reactions-data-breaches) 
+[Reactions by Actual Data Breach Victims Over Time: Evidence From Facebook's Cambridge Analytica Breach](https://pubsonline.informs.org/doi/full/10.1287/isre.2023.0391) <br /> [Frederic Schlackl](https://www.hec.ca/en/profs/frederic.schlackl.html), Florian Pethig, [Hartmut Hoehle](https://www.bwl.uni-mannheim.de/hoehle/team/prof-dr-hartmut-hoehle/), and [Rajiv Sabherwal](https://walton.uark.edu/departments/information-systems/directory/uid/rsabherw/name/Rajiv+Sabherwal/) <br /> ***Information Systems Research***, forthcoming.  <br /> [[PDF]](/preprints/facebook.pdf) <br /> Media: [[Mannheimer Morgen]](https://www.mannheimer-morgen.de/wirtschaft_artikel,-regionale-wirtschaft-datenlecks-bei-facebook-wie-reagieren-die-user-_arid,2380512.html) [[Walton College Insights]](https://walton.uark.edu/insights/posts/understanding-short-term-shock-and-long-term-recovery-after-data-breaches.php) [[News Tilburg University]](https://www.tilburguniversity.edu/current/news/reactions-data-breaches) 
 
 [Behavior Toward Newcomers and Contributions to Online Communities](https://doi.org/10.25300/MISQ/2024/17759) <br /> Florian Pethig, [Hartmut Hoehle](https://www.bwl.uni-mannheim.de/hoehle/team/prof-dr-hartmut-hoehle/), [Kai-Lung Hui](https://klhui.people.ust.hk), and [Andreas Lanz](https://wwz.unibas.ch/de/personen/andreas-lanz/) <br /> ***MIS Quarterly***, 2025.  <br /> [[PDF]](/preprints/nudge.pdf) -- [[Replication]](https://osf.io/sgmv2/)
 
